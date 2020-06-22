@@ -1,0 +1,3 @@
+/home/arina/CLionProjects/world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arina/CLionProjects/world/cmake-build-debug/CMakeFiles/world.dir
+/home/arina/CLionProjects/world/cmake-build-debug/CMakeFiles/edit_cache.dir

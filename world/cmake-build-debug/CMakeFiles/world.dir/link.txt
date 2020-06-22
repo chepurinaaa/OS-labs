@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/world.dir/main.c.o CMakeFiles/world.dir/main2.c.o CMakeFiles/world.dir/main1.c.o  -o world 
