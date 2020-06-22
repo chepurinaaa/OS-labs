@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab_4.dir/task6.c.o  -o lab_4 
