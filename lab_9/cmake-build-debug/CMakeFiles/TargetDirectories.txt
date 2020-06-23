@@ -1,0 +1,3 @@
+/home/arina/CLionProjects/lab_9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/arina/CLionProjects/lab_9/cmake-build-debug/CMakeFiles/mythreads.dir
+/home/arina/CLionProjects/lab_9/cmake-build-debug/CMakeFiles/edit_cache.dir

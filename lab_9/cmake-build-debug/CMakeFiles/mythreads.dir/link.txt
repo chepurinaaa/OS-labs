@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmythreads.a  CMakeFiles/mythreads.dir/main-race.c.o
+/usr/bin/ranlib libmythreads.a
