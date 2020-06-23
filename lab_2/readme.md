@@ -31,7 +31,7 @@
 
 ![alt text](https://github.com/chepurinaaa/OS-labs/blob/master/pic/2_6.png)
 
-`4.` В основной программе использовать  wait() для того, чтобы дождаться завершения порожденного процесса? Использовать waitpid() вместо of wait(). 
+`4.` В основной программе использовать  wait() для того, чтобы дождаться завершения порожденного процесса? 
 
 ![alt text](https://github.com/chepurinaaa/OS-labs/blob/master/pic/2_7.png)
 
